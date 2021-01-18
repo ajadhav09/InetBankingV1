@@ -5,7 +5,7 @@
   <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.inetBanking.testCases.TC_LoginTest_001"/>
-      <!--  <class name="com.inetBanking.testCases.TC_LoginDDT_002"/> -->
+       <class name="com.inetBanking.testCases.TC_LoginDDT_002"/> 
         <class name="com.inetBanking.testCases.TC_AddBankTest_003"/>
     </classes>
     </test>

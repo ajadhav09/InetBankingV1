@@ -192,3 +192,57 @@
 2021-01-15 11:49:30,542 - CTS -INFO - Providing Bank details
 2021-01-15 11:49:36,520 - CTS -INFO - validation started...
 2021-01-15 11:49:36,577 - CTS -INFO - Test case passed
+2021-01-18 11:13:50,149 - CTS -INFO - Url is Opened
+2021-01-18 11:13:50,798 - CTS -INFO - Enter Username
+2021-01-18 11:13:51,257 - CTS -INFO - Enter password
+2021-01-18 11:14:21,472 - CTS -INFO - Login Test passed
+2021-01-18 11:15:06,235 - CTS -INFO - Username is provided
+2021-01-18 11:15:06,302 - CTS -INFO - password is provided
+2021-01-18 11:15:10,856 - CTS -INFO - Login passed
+2021-01-18 11:15:20,962 - CTS -INFO - Username is provided
+2021-01-18 11:15:21,028 - CTS -INFO - password is provided
+2021-01-18 11:15:24,384 - CTS -INFO - Login passed
+2021-01-18 11:15:34,488 - CTS -INFO - Username is provided
+2021-01-18 11:15:34,547 - CTS -INFO - password is provided
+2021-01-18 11:15:38,026 - CTS -INFO - Login passed
+2021-01-18 11:15:48,141 - CTS -INFO - Username is provided
+2021-01-18 11:15:48,214 - CTS -INFO - password is provided
+2021-01-18 11:16:14,044 - CTS -INFO - Login passed
+2021-01-18 11:16:17,642 - CTS -INFO - Username is provided
+2021-01-18 11:16:17,692 - CTS -INFO - password is provided
+2021-01-18 11:16:20,764 - CTS -INFO - Login passed
+2021-01-18 11:16:30,891 - CTS -INFO - Username is provided
+2021-01-18 11:16:30,951 - CTS -INFO - password is provided
+2021-01-18 11:16:34,017 - CTS -INFO - Login passed
+2021-01-18 11:17:21,189 - CTS -INFO - Username is provided
+2021-01-18 11:17:21,255 - CTS -INFO - password is provided
+2021-01-18 11:17:52,164 - CTS -INFO - Providing Bank details
+2021-01-18 11:18:00,785 - CTS -INFO - validation started...
+2021-01-18 11:18:00,829 - CTS -INFO - Test case passed
+2021-01-18 12:09:08,300 - CTS -INFO - Url is Opened
+2021-01-18 12:09:08,983 - CTS -INFO - Enter Username
+2021-01-18 12:09:09,169 - CTS -INFO - Enter password
+2021-01-18 12:09:37,036 - CTS -INFO - Login Test passed
+2021-01-18 12:10:22,593 - CTS -INFO - Username is provided
+2021-01-18 12:10:23,324 - CTS -INFO - password is provided
+2021-01-18 12:10:28,533 - CTS -INFO - Login passed
+2021-01-18 12:10:38,699 - CTS -INFO - Username is provided
+2021-01-18 12:10:38,778 - CTS -INFO - password is provided
+2021-01-18 12:10:42,691 - CTS -INFO - Login passed
+2021-01-18 12:10:52,815 - CTS -INFO - Username is provided
+2021-01-18 12:10:52,890 - CTS -INFO - password is provided
+2021-01-18 12:10:56,282 - CTS -INFO - Login passed
+2021-01-18 12:11:06,379 - CTS -INFO - Username is provided
+2021-01-18 12:11:06,437 - CTS -INFO - password is provided
+2021-01-18 12:11:30,924 - CTS -INFO - Login passed
+2021-01-18 12:11:34,739 - CTS -INFO - Username is provided
+2021-01-18 12:11:34,790 - CTS -INFO - password is provided
+2021-01-18 12:11:37,860 - CTS -INFO - Login passed
+2021-01-18 12:11:47,927 - CTS -INFO - Username is provided
+2021-01-18 12:11:48,704 - CTS -INFO - password is provided
+2021-01-18 12:11:51,870 - CTS -INFO - Login passed
+2021-01-18 12:12:59,011 - CTS -INFO - Username is provided
+2021-01-18 12:12:59,084 - CTS -INFO - password is provided
+2021-01-18 12:13:27,985 - CTS -INFO - Providing Bank details
+2021-01-18 12:13:33,668 - CTS -INFO - validation started...
+2021-01-18 12:13:33,711 - CTS -INFO - Test case passed
