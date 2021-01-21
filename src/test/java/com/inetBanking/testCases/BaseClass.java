@@ -31,7 +31,7 @@ public class BaseClass {
 			public static WebDriver driver;
 			public static Logger logger;
 			
-		    @Parameters("browser")
+			@Parameters("browser")
 			@BeforeClass
 			public void setup(String br) {
 				
@@ -54,6 +54,7 @@ public class BaseClass {
 					driver = new InternetExplorerDriver();
 				}
 				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+				driver.manage().window().maximize();
 				driver.get(baseUrl);
 				
 			}
@@ -87,16 +88,33 @@ public class BaseClass {
 			 
 			 public String randomstring()
 				{
-					String generatedstring = RandomStringUtils.randomAlphabetic(8);
+					String generatedstring = RandomStringUtils.randomAlphabetic(6);
+					return generatedstring;
+				}
+			 
+			 public String RandomString()
+				{
+					String generatedstring = RandomStringUtils.randomAlphabetic(3);
 					return generatedstring;
 				}
 
 				public static String randomNumber()
 				{
-					String generatedstring = RandomStringUtils.randomNumeric(6);
+					String generatedstring = RandomStringUtils.randomNumeric(10);
 					return generatedstring;
 				}
+				
+				public static String randomNum()
+				{
+					String generatedstring = RandomStringUtils.randomNumeric(3);
+					return generatedstring;
+				}
+				
 			
-			
+				public static String randomAlphaNum()
+				{
+					String generatedstring = RandomStringUtils.randomAlphanumeric(10);
+					return generatedstring;
+				}
 
 }

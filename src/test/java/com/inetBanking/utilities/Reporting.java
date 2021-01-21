@@ -29,7 +29,8 @@ public class Reporting extends TestListenerAdapter
 	
 	public void onStart(ITestContext testContext)
 	{
-		String timestamp = new SimpleDateFormat("yyyy.MM.dd.mm.ss").format(new Date()); //time stamp
+		Date date = new Date();
+		String timestamp = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss").format(date); //time stamp
 		String repName = "Test-Report-"+timestamp+".html";
 		
 		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir")+ "/test-output/"+repName); //specify location

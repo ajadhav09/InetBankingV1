@@ -1,9 +1,13 @@
 com\inetBanking\testCases\TC_LoginTest_001.class
-com\inetBanking\utilities\ReadConfig.class
 com\inetBanking\pageObject\LoginPage.class
+com\inetBanking\testCases\TC_LoginDDT_002.class
+com\inetBanking\testCases\TC_AddVendorTest_004.class
+com\inetBanking\testCases\TC_AddBankTest_003.class
+com\inetBanking\testCases\BaseClass.class
+com\inetBanking\pageObject\AddVendor.class
+com\inetBanking\testCases\TC_AddMobileBranchTest_005.class
+com\inetBanking\utilities\ReadConfig.class
 com\inetBanking\utilities\Reporting.class
 com\inetBanking\pageObject\AddBank.class
-com\inetBanking\testCases\TC_LoginDDT_002.class
-com\inetBanking\testCases\TC_AddBankTest_003.class
+com\inetBanking\pageObject\AddMobileBranch.class
 com\inetBanking\utilities\XLUtils.class
-com\inetBanking\testCases\BaseClass.class

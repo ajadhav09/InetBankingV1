@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [InetBankingV1]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="BankingApp Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBankingV1]" parallel="tests">
+  <test thread-count="5" name="BankingApp Test(failed)" parallel="tests">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_LoginDDT_002">
+      <class name="com.inetBanking.testCases.TC_AddClient_007">
         <methods>
           <include name="setup"/>
-          <include name="loginDDT" invocation-numbers="0 1 2 4 5"/>
           <include name="tearDown"/>
+          <include name="AddClient"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_LoginDDT_002 -->
+      </class> <!-- com.inetBanking.testCases.TC_AddClient_007 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->

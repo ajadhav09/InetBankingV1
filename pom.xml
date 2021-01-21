@@ -26,45 +26,22 @@
           <artifactId>maven-compiler-plugin</artifactId>
         <version>3.5.1</version> 
           <configuration>
-          <source>1.8</source>
+           <source>1.8</source>
           <target>1.8</target>
           </configuration>
         </plugin>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
-          <version>2.20</version>
+          <version>2.20.1</version>
            <configuration>
           <suiteXMLFiles>
            <suiteXmlFile>testng.xml</suiteXmlFile>
-         <!-- <suiteXmlFile>suites-test-TestNG.xml</suiteXmlFile>--> 
           </suiteXMLFiles>
           </configuration>
         </plugin>
       
-       <!--  <plugin>
-          <artifactId>maven-jar-plugin</artifactId>
-          <version>3.0.2</version>
-        </plugin>
-        <plugin>
-          <artifactId>maven-install-plugin</artifactId>
-          <version>2.5.2</version>
-        </plugin>
-        <plugin>
-          <artifactId>maven-deploy-plugin</artifactId>
-          <version>2.8.2</version>
-        </plugin>
-       
-        <plugin>
-          <artifactId>maven-site-plugin</artifactId>
-          <version>3.7.1</version>
-        </plugin>
-        <plugin>
-          <artifactId>maven-project-info-reports-plugin</artifactId>
-          <version>3.0.0</version>
-        </plugin>  -->
-        
-      </plugins>
+         </plugins>
    </build> 
 
  <!-- dependencies required for project-->
