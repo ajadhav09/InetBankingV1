@@ -76,17 +76,24 @@ public class TC_AddScannerBranch_006 extends BaseClass {
 		
 		logger.info("validation started...");
 		
-		boolean res = driver.getPageSource().contains("new scanner branch added sucessfully");
-		if(res==true)
+		/*
+		 * boolean res =
+		 * driver.getPageSource().contains("new scanner branch added sucessfully");
+		 * if(res==true) { capturescreen(driver,"AddScannerBranch");
+		 * Assert.assertTrue(false); logger.info("Test case failed"); } else {
+		 * Assert.assertTrue(true); logger.info("Test case passed"); }
+		 */
+		
+		if(driver.getTitle().equals("Users / CTS Application"))
 		{
+			Assert.assertTrue(true);
+			logger.info(" Test case passed");
+			
+		}
+		else {
 			capturescreen(driver,"AddScannerBranch");
 			Assert.assertTrue(false);
 			logger.info("Test case failed");
-		}
-		else
-		{
-			Assert.assertTrue(true);
-			logger.info("Test case passed");
 		}
 	}
 		

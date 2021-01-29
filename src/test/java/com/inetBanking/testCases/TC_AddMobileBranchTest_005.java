@@ -76,17 +76,24 @@ public class TC_AddMobileBranchTest_005 extends BaseClass{
 		
 		logger.info("validation started...");
 		
-		boolean res = driver.getPageSource().contains("new mobile branch added sucessfully");
-		if(res==true)
-		{
-			capturescreen(driver,"AddMobileBranch");
-			Assert.assertTrue(false);
-			logger.info("Test case failed");
-		}
-		else
+		/*
+		 * boolean res =
+		 * driver.getPageSource().contains("new mobile branch added sucessfully");
+		 * if(res==true) { capturescreen(driver,"AddMobileBranch");
+		 * Assert.assertTrue(false); logger.info("Test case failed"); } else {
+		 * Assert.assertTrue(true); logger.info("Test case passed"); }
+		 */
+		
+		if(driver.getTitle().equals("Users / CTS Application"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Test case passed");
+			
+		}
+		else {
+			capturescreen(driver,"AddMobileBranchTest");
+			Assert.assertTrue(false);
+			logger.info("Test case failed");
 		}
 	}
 		

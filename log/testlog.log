@@ -432,3 +432,210 @@
 2021-01-21 12:35:21,788 - CTS -INFO - Username is provided
 2021-01-21 12:35:21,857 - CTS -INFO - password is provided
 2021-01-21 12:35:48,377 - CTS -INFO - Providing client details
+2021-01-21 14:28:48,992 - CTS -INFO - Url is Opened
+2021-01-21 14:28:49,449 - CTS -INFO - Enter Username
+2021-01-21 14:28:49,533 - CTS -INFO - Enter password
+2021-01-21 14:29:28,732 - CTS -INFO - Username is provided
+2021-01-21 14:29:28,793 - CTS -INFO - password is provided
+2021-01-21 14:29:33,074 - CTS -INFO - Login passed
+2021-01-21 14:29:43,173 - CTS -INFO - Username is provided
+2021-01-21 14:29:43,233 - CTS -INFO - password is provided
+2021-01-21 14:29:46,889 - CTS -INFO - Login passed
+2021-01-21 14:29:57,027 - CTS -INFO - Username is provided
+2021-01-21 14:29:57,095 - CTS -INFO - password is provided
+2021-01-21 14:30:01,657 - CTS -INFO - Login passed
+2021-01-21 14:30:11,760 - CTS -INFO - Username is provided
+2021-01-21 14:30:11,819 - CTS -INFO - password is provided
+2021-01-21 14:30:36,723 - CTS -INFO - Username is provided
+2021-01-21 14:30:36,812 - CTS -INFO - password is provided
+2021-01-21 14:31:06,832 - CTS -INFO - Providing Bank details
+2021-01-21 14:31:22,912 - CTS -INFO - validation started...
+2021-01-21 14:31:23,217 - CTS -INFO - Test case passed
+2021-01-21 14:31:46,268 - CTS -INFO - Username is provided
+2021-01-21 14:31:46,335 - CTS -INFO - password is provided
+2021-01-21 14:32:16,189 - CTS -INFO - Providing Vendor details
+2021-01-21 14:32:21,038 - CTS -INFO - validation started...
+2021-01-21 14:32:21,085 - CTS -INFO - Test case passed
+2021-01-21 14:32:32,955 - CTS -INFO - Username is provided
+2021-01-21 14:32:33,028 - CTS -INFO - password is provided
+2021-01-21 14:33:05,332 - CTS -INFO - Providing Mobile branch details
+2021-01-21 14:33:22,884 - CTS -INFO - Username is provided
+2021-01-21 14:33:22,946 - CTS -INFO - password is provided
+2021-01-21 14:33:43,956 - CTS -INFO - Username is provided
+2021-01-21 14:33:44,019 - CTS -INFO - password is provided
+2021-01-21 14:34:13,355 - CTS -INFO - Providing client details
+2021-01-25 16:35:26,303 - CTS -INFO - user name is provided
+2021-01-25 16:35:30,332 - CTS -INFO - password is provided
+2021-01-25 16:35:57,869 - CTS -INFO - Validation started
+2021-01-25 16:44:16,299 - CTS -INFO - user name is provided
+2021-01-25 16:44:16,368 - CTS -INFO - password is provided
+2021-01-25 16:44:43,743 - CTS -INFO - Validation started
+2021-01-25 16:44:43,794 - CTS -INFO - Test case passed
+2021-01-25 16:45:43,587 - CTS -INFO - user name is provided
+2021-01-25 16:45:43,654 - CTS -INFO - password is provided
+2021-01-25 16:46:12,272 - CTS -INFO - Validation started
+2021-01-25 16:48:24,125 - CTS -INFO - user name is provided
+2021-01-25 16:48:24,191 - CTS -INFO - password is provided
+2021-01-25 16:48:52,862 - CTS -INFO - Validation started
+2021-01-25 16:49:52,974 - CTS -INFO - user name is provided
+2021-01-25 16:49:53,039 - CTS -INFO - password is provided
+2021-01-25 16:50:22,103 - CTS -INFO - Validation started
+2021-01-25 16:51:57,125 - CTS -INFO - user name is provided
+2021-01-25 16:51:57,200 - CTS -INFO - password is provided
+2021-01-25 16:52:25,678 - CTS -INFO - Validation started
+2021-01-25 16:52:25,688 - CTS -INFO - Login Test passed
+2021-01-25 16:57:27,225 - CTS -INFO - Url is Opened
+2021-01-25 16:57:27,305 - CTS -INFO - Enter Username
+2021-01-25 16:57:27,366 - CTS -INFO - Enter password
+2021-01-25 16:59:57,018 - CTS -INFO - Login Test passed
+2021-01-25 17:00:10,618 - CTS -INFO - Username is provided
+2021-01-25 17:00:10,679 - CTS -INFO - password is provided
+2021-01-25 17:00:16,383 - CTS -INFO - Login passed
+2021-01-25 17:00:26,480 - CTS -INFO - Username is provided
+2021-01-25 17:00:26,541 - CTS -INFO - password is provided
+2021-01-25 17:00:31,984 - CTS -INFO - Login passed
+2021-01-25 17:00:42,102 - CTS -INFO - Username is provided
+2021-01-25 17:00:42,156 - CTS -INFO - password is provided
+2021-01-25 17:00:46,129 - CTS -INFO - Login passed
+2021-01-25 17:00:56,247 - CTS -INFO - Username is provided
+2021-01-25 17:00:56,321 - CTS -INFO - password is provided
+2021-01-25 17:01:30,296 - CTS -INFO - Login passed
+2021-01-25 17:01:34,107 - CTS -INFO - Username is provided
+2021-01-25 17:01:34,160 - CTS -INFO - password is provided
+2021-01-25 17:01:37,229 - CTS -INFO - Login passed
+2021-01-25 17:01:47,337 - CTS -INFO - Username is provided
+2021-01-25 17:01:47,372 - CTS -INFO - password is provided
+2021-01-25 17:01:50,422 - CTS -INFO - Login passed
+2021-01-25 17:02:07,027 - CTS -INFO - Username is provided
+2021-01-25 17:02:07,094 - CTS -INFO - password is provided
+2021-01-25 17:02:42,506 - CTS -INFO - Providing Bank details
+2021-01-25 17:02:48,244 - CTS -INFO - validation started...
+2021-01-25 17:02:48,286 - CTS -INFO - Test case passed
+2021-01-25 17:03:01,293 - CTS -INFO - Username is provided
+2021-01-25 17:03:01,358 - CTS -INFO - password is provided
+2021-01-25 17:03:28,980 - CTS -INFO - Providing Vendor details
+2021-01-25 17:03:33,739 - CTS -INFO - validation started...
+2021-01-25 17:03:33,780 - CTS -INFO - Test case passed
+2021-01-25 17:03:40,180 - CTS -INFO - Username is provided
+2021-01-25 17:03:40,251 - CTS -INFO - password is provided
+2021-01-25 17:04:13,619 - CTS -INFO - Providing Mobile branch details
+2021-01-25 17:04:32,960 - CTS -INFO - Username is provided
+2021-01-25 17:04:33,033 - CTS -INFO - password is provided
+2021-01-25 17:05:24,280 - CTS -INFO - Providing Scanner branch details
+2021-01-25 17:05:36,641 - CTS -INFO - Username is provided
+2021-01-25 17:05:36,711 - CTS -INFO - password is provided
+2021-01-25 17:06:09,095 - CTS -INFO - Providing client details
+2021-01-25 17:06:41,647 - CTS -INFO - user name is provided
+2021-01-25 17:06:41,723 - CTS -INFO - password is provided
+2021-01-25 17:09:16,079 - CTS -INFO - Validation started
+2021-01-25 17:09:16,082 - CTS -INFO - Test case passed
+2021-01-27 12:05:05,488 - CTS -INFO - Url is Opened
+2021-01-27 12:05:06,208 - CTS -INFO - Enter Username
+2021-01-27 12:05:06,384 - CTS -INFO - Enter password
+2021-01-27 12:05:32,514 - CTS -INFO - Login Test passed
+2021-01-27 12:05:45,458 - CTS -INFO - Username is provided
+2021-01-27 12:05:45,526 - CTS -INFO - password is provided
+2021-01-27 12:05:51,693 - CTS -INFO - Login passed
+2021-01-27 12:06:01,845 - CTS -INFO - Username is provided
+2021-01-27 12:06:01,923 - CTS -INFO - password is provided
+2021-01-27 12:06:06,354 - CTS -INFO - Login passed
+2021-01-27 12:06:16,487 - CTS -INFO - Username is provided
+2021-01-27 12:06:16,540 - CTS -INFO - password is provided
+2021-01-27 12:06:20,818 - CTS -INFO - Login passed
+2021-01-27 12:06:30,939 - CTS -INFO - Username is provided
+2021-01-27 12:06:31,004 - CTS -INFO - password is provided
+2021-01-27 12:06:58,037 - CTS -INFO - Login passed
+2021-01-27 12:07:01,569 - CTS -INFO - Username is provided
+2021-01-27 12:07:01,623 - CTS -INFO - password is provided
+2021-01-27 12:07:04,791 - CTS -INFO - Login passed
+2021-01-27 12:07:14,918 - CTS -INFO - Username is provided
+2021-01-27 12:07:14,967 - CTS -INFO - password is provided
+2021-01-27 12:07:18,030 - CTS -INFO - Login passed
+2021-01-27 12:07:37,962 - CTS -INFO - Username is provided
+2021-01-27 12:07:38,022 - CTS -INFO - password is provided
+2021-01-27 12:08:10,208 - CTS -INFO - Providing Bank details
+2021-01-27 12:08:15,883 - CTS -INFO - validation started...
+2021-01-27 12:08:15,928 - CTS -INFO - Test case passed
+2021-01-27 12:08:25,789 - CTS -INFO - Username is provided
+2021-01-27 12:08:25,854 - CTS -INFO - password is provided
+2021-01-27 12:08:54,856 - CTS -INFO - Providing Vendor details
+2021-01-27 12:08:59,632 - CTS -INFO - validation started...
+2021-01-27 12:08:59,662 - CTS -INFO - Test case passed
+2021-01-27 12:09:06,883 - CTS -INFO - Username is provided
+2021-01-27 12:09:06,946 - CTS -INFO - password is provided
+2021-01-27 12:09:40,074 - CTS -INFO - Providing Mobile branch details
+2021-01-27 12:09:52,809 - CTS -INFO - Username is provided
+2021-01-27 12:09:52,886 - CTS -INFO - password is provided
+2021-01-27 12:10:19,534 - CTS -INFO - Providing Scanner branch details
+2021-01-27 12:10:32,168 - CTS -INFO - Username is provided
+2021-01-27 12:10:32,229 - CTS -INFO - password is provided
+2021-01-27 12:11:00,963 - CTS -INFO - Providing client details
+2021-01-27 12:11:07,981 - CTS -INFO - user name is provided
+2021-01-27 12:11:08,047 - CTS -INFO - password is provided
+2021-01-27 12:11:37,607 - CTS -INFO - Validation started
+2021-01-27 12:11:37,613 - CTS -INFO - Test case passed
+2021-01-27 15:31:02,286 - CTS -INFO - Url is Opened
+2021-01-27 15:31:03,016 - CTS -INFO - Enter Username
+2021-01-27 15:31:03,089 - CTS -INFO - Enter password
+2021-01-27 15:31:28,107 - CTS -INFO - Login Test passed
+2021-01-27 15:32:46,685 - CTS -INFO - Username is provided
+2021-01-27 15:32:46,767 - CTS -INFO - password is provided
+2021-01-27 15:32:52,414 - CTS -INFO - Login passed
+2021-01-27 15:33:02,578 - CTS -INFO - Username is provided
+2021-01-27 15:33:02,646 - CTS -INFO - password is provided
+2021-01-27 15:33:07,497 - CTS -INFO - Login passed
+2021-01-27 15:33:17,594 - CTS -INFO - Username is provided
+2021-01-27 15:33:17,650 - CTS -INFO - password is provided
+2021-01-27 15:33:21,874 - CTS -INFO - Login passed
+2021-01-27 15:33:32,026 - CTS -INFO - Username is provided
+2021-01-27 15:33:32,089 - CTS -INFO - password is provided
+2021-01-27 15:34:14,766 - CTS -INFO - Login passed
+2021-01-27 15:34:19,479 - CTS -INFO - Username is provided
+2021-01-27 15:34:19,527 - CTS -INFO - password is provided
+2021-01-27 15:34:22,615 - CTS -INFO - Login passed
+2021-01-27 15:34:32,692 - CTS -INFO - Username is provided
+2021-01-27 15:34:32,743 - CTS -INFO - password is provided
+2021-01-27 15:34:35,808 - CTS -INFO - Login passed
+2021-01-27 15:35:02,905 - CTS -INFO - Username is provided
+2021-01-27 15:35:02,969 - CTS -INFO - password is provided
+2021-01-27 15:35:30,914 - CTS -INFO - Providing Bank details
+2021-01-27 15:35:36,041 - CTS -INFO - validation started...
+2021-01-27 15:35:36,088 - CTS -INFO - Test case passed
+2021-01-27 15:35:45,816 - CTS -INFO - Username is provided
+2021-01-27 15:35:45,880 - CTS -INFO - password is provided
+2021-01-27 15:36:14,297 - CTS -INFO - Providing Vendor details
+2021-01-27 15:36:19,090 - CTS -INFO - validation started...
+2021-01-27 15:36:19,149 - CTS -INFO - Test case passed
+2021-01-27 15:36:32,799 - CTS -INFO - Username is provided
+2021-01-27 15:36:32,863 - CTS -INFO - password is provided
+2021-01-27 15:37:15,309 - CTS -INFO - Username is provided
+2021-01-27 15:37:15,374 - CTS -INFO - password is provided
+2021-01-27 15:37:47,260 - CTS -INFO - Providing Scanner branch details
+2021-01-27 15:37:56,466 - CTS -INFO - Username is provided
+2021-01-27 15:37:56,534 - CTS -INFO - password is provided
+2021-01-27 15:38:28,116 - CTS -INFO - Providing client details
+2021-01-27 15:38:43,880 - CTS -INFO - user name is provided
+2021-01-27 15:38:43,952 - CTS -INFO - password is provided
+2021-01-27 15:39:10,495 - CTS -INFO - Validation started
+2021-01-27 15:39:10,499 - CTS -INFO - Test case passed
+2021-01-28 10:43:24,607 - CTS -INFO - username is provided
+2021-01-28 10:43:24,761 - CTS -INFO - password is provided
+2021-01-28 10:43:51,348 - CTS -INFO - User get login sucessfully
+2021-01-28 10:44:55,633 - CTS -INFO - username is provided
+2021-01-28 10:44:55,700 - CTS -INFO - password is provided
+2021-01-28 10:45:21,615 - CTS -INFO - User get login sucessfully
+2021-01-28 10:53:06,744 - CTS -INFO - username is provided
+2021-01-28 10:53:06,812 - CTS -INFO - password is provided
+2021-01-28 10:53:29,125 - CTS -INFO - User get login sucessfully
+2021-01-28 10:54:25,993 - CTS -INFO - username is provided
+2021-01-28 10:54:26,059 - CTS -INFO - password is provided
+2021-01-28 10:54:53,797 - CTS -INFO - User get login sucessfully
+2021-01-28 10:58:22,866 - CTS -INFO - username is provided
+2021-01-28 10:58:22,934 - CTS -INFO - password is provided
+2021-01-28 10:58:56,507 - CTS -INFO - User get login sucessfully
+2021-01-28 11:13:18,497 - CTS -INFO - username is provided
+2021-01-28 11:13:18,560 - CTS -INFO - password is provided
+2021-01-28 11:16:10,505 - CTS -INFO - User get login sucessfully
+2021-01-28 11:18:15,752 - CTS -INFO - username is provided
+2021-01-28 11:18:15,837 - CTS -INFO - password is provided
+2021-01-28 11:18:41,027 - CTS -INFO - User get login sucessfully

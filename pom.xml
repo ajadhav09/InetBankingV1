@@ -20,6 +20,7 @@
   
   <!-- plug-ins required for executing tests -->
     <build>
+    
      <plugins>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
@@ -36,7 +37,7 @@
           <version>2.20.1</version>
            <configuration>
           <suiteXMLFiles>
-           <suiteXmlFile>testng.xml</suiteXmlFile>
+           <suiteXmlFile>/InetBankingV1/src/test/resource/testng.xml</suiteXmlFile>
           </suiteXMLFiles>
           </configuration>
         </plugin>

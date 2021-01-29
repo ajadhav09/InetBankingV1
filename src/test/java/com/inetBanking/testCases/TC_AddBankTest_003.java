@@ -16,6 +16,7 @@ public class TC_AddBankTest_003  extends BaseClass
 		LoginPage lp = new LoginPage(driver);
 		lp.setUserName(username);
 		logger.info("Username is provided");
+		
 		lp.setPassword(password);
 		logger.info("password is provided");
 		lp.clickSubmit();

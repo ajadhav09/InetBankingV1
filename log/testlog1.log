@@ -432,3 +432,210 @@
 2021-01-21 12:35:21,788 [TestNG-tests-1] INFO CTS - Username is provided
 2021-01-21 12:35:21,857 [TestNG-tests-1] INFO CTS - password is provided
 2021-01-21 12:35:48,377 [TestNG-tests-1] INFO CTS - Providing client details
+2021-01-21 14:28:48,992 [TestNG-tests-1] INFO CTS - Url is Opened
+2021-01-21 14:28:49,449 [TestNG-tests-1] INFO CTS - Enter Username
+2021-01-21 14:28:49,533 [TestNG-tests-1] INFO CTS - Enter password
+2021-01-21 14:29:28,732 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:29:28,793 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:29:33,074 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-21 14:29:43,173 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:29:43,233 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:29:46,889 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-21 14:29:57,027 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:29:57,095 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:30:01,657 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-21 14:30:11,760 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:30:11,819 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:30:36,723 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:30:36,812 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:31:06,832 [TestNG-tests-1] INFO CTS - Providing Bank details
+2021-01-21 14:31:22,912 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-21 14:31:23,217 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-21 14:31:46,268 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:31:46,335 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:32:16,189 [TestNG-tests-1] INFO CTS - Providing Vendor details
+2021-01-21 14:32:21,038 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-21 14:32:21,085 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-21 14:32:32,955 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:32:33,028 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:33:05,332 [TestNG-tests-1] INFO CTS - Providing Mobile branch details
+2021-01-21 14:33:22,884 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:33:22,946 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:33:43,956 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-21 14:33:44,019 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-21 14:34:13,355 [TestNG-tests-1] INFO CTS - Providing client details
+2021-01-25 16:35:26,303 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-25 16:35:30,332 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 16:35:57,869 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-25 16:44:16,299 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-25 16:44:16,368 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 16:44:43,743 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-25 16:44:43,794 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-25 16:45:43,587 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-25 16:45:43,654 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 16:46:12,272 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-25 16:48:24,125 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-25 16:48:24,191 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 16:48:52,862 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-25 16:49:52,974 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-25 16:49:53,039 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 16:50:22,103 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-25 16:51:57,125 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-25 16:51:57,200 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 16:52:25,678 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-25 16:52:25,688 [TestNG-tests-1] INFO CTS - Login Test passed
+2021-01-25 16:57:27,225 [TestNG-tests-1] INFO CTS - Url is Opened
+2021-01-25 16:57:27,305 [TestNG-tests-1] INFO CTS - Enter Username
+2021-01-25 16:57:27,366 [TestNG-tests-1] INFO CTS - Enter password
+2021-01-25 16:59:57,018 [TestNG-tests-1] INFO CTS - Login Test passed
+2021-01-25 17:00:10,618 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:00:10,679 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:00:16,383 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-25 17:00:26,480 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:00:26,541 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:00:31,984 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-25 17:00:42,102 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:00:42,156 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:00:46,129 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-25 17:00:56,247 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:00:56,321 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:01:30,296 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-25 17:01:34,107 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:01:34,160 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:01:37,229 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-25 17:01:47,337 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:01:47,372 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:01:50,422 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-25 17:02:07,027 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:02:07,094 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:02:42,506 [TestNG-tests-1] INFO CTS - Providing Bank details
+2021-01-25 17:02:48,244 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-25 17:02:48,286 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-25 17:03:01,293 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:03:01,358 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:03:28,980 [TestNG-tests-1] INFO CTS - Providing Vendor details
+2021-01-25 17:03:33,739 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-25 17:03:33,780 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-25 17:03:40,180 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:03:40,251 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:04:13,619 [TestNG-tests-1] INFO CTS - Providing Mobile branch details
+2021-01-25 17:04:32,960 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:04:33,033 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:05:24,280 [TestNG-tests-1] INFO CTS - Providing Scanner branch details
+2021-01-25 17:05:36,641 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-25 17:05:36,711 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:06:09,095 [TestNG-tests-1] INFO CTS - Providing client details
+2021-01-25 17:06:41,647 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-25 17:06:41,723 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-25 17:09:16,079 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-25 17:09:16,082 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-27 12:05:05,488 [TestNG-tests-1] INFO CTS - Url is Opened
+2021-01-27 12:05:06,208 [TestNG-tests-1] INFO CTS - Enter Username
+2021-01-27 12:05:06,384 [TestNG-tests-1] INFO CTS - Enter password
+2021-01-27 12:05:32,514 [TestNG-tests-1] INFO CTS - Login Test passed
+2021-01-27 12:05:45,458 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:05:45,526 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:05:51,693 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 12:06:01,845 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:06:01,923 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:06:06,354 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 12:06:16,487 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:06:16,540 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:06:20,818 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 12:06:30,939 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:06:31,004 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:06:58,037 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 12:07:01,569 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:07:01,623 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:07:04,791 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 12:07:14,918 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:07:14,967 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:07:18,030 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 12:07:37,962 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:07:38,022 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:08:10,208 [TestNG-tests-1] INFO CTS - Providing Bank details
+2021-01-27 12:08:15,883 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-27 12:08:15,928 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-27 12:08:25,789 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:08:25,854 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:08:54,856 [TestNG-tests-1] INFO CTS - Providing Vendor details
+2021-01-27 12:08:59,632 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-27 12:08:59,662 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-27 12:09:06,883 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:09:06,946 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:09:40,074 [TestNG-tests-1] INFO CTS - Providing Mobile branch details
+2021-01-27 12:09:52,809 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:09:52,886 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:10:19,534 [TestNG-tests-1] INFO CTS - Providing Scanner branch details
+2021-01-27 12:10:32,168 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 12:10:32,229 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:11:00,963 [TestNG-tests-1] INFO CTS - Providing client details
+2021-01-27 12:11:07,981 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-27 12:11:08,047 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 12:11:37,607 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-27 12:11:37,613 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-27 15:31:02,286 [TestNG-tests-1] INFO CTS - Url is Opened
+2021-01-27 15:31:03,016 [TestNG-tests-1] INFO CTS - Enter Username
+2021-01-27 15:31:03,089 [TestNG-tests-1] INFO CTS - Enter password
+2021-01-27 15:31:28,107 [TestNG-tests-1] INFO CTS - Login Test passed
+2021-01-27 15:32:46,685 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:32:46,767 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:32:52,414 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 15:33:02,578 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:33:02,646 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:33:07,497 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 15:33:17,594 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:33:17,650 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:33:21,874 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 15:33:32,026 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:33:32,089 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:34:14,766 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 15:34:19,479 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:34:19,527 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:34:22,615 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 15:34:32,692 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:34:32,743 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:34:35,808 [TestNG-tests-1] INFO CTS - Login passed
+2021-01-27 15:35:02,905 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:35:02,969 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:35:30,914 [TestNG-tests-1] INFO CTS - Providing Bank details
+2021-01-27 15:35:36,041 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-27 15:35:36,088 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-27 15:35:45,816 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:35:45,880 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:36:14,297 [TestNG-tests-1] INFO CTS - Providing Vendor details
+2021-01-27 15:36:19,090 [TestNG-tests-1] INFO CTS - validation started...
+2021-01-27 15:36:19,149 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-27 15:36:32,799 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:36:32,863 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:37:15,309 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:37:15,374 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:37:47,260 [TestNG-tests-1] INFO CTS - Providing Scanner branch details
+2021-01-27 15:37:56,466 [TestNG-tests-1] INFO CTS - Username is provided
+2021-01-27 15:37:56,534 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:38:28,116 [TestNG-tests-1] INFO CTS - Providing client details
+2021-01-27 15:38:43,880 [TestNG-tests-1] INFO CTS - user name is provided
+2021-01-27 15:38:43,952 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-27 15:39:10,495 [TestNG-tests-1] INFO CTS - Validation started
+2021-01-27 15:39:10,499 [TestNG-tests-1] INFO CTS - Test case passed
+2021-01-28 10:43:24,607 [TestNG-tests-1] INFO CTS - username is provided
+2021-01-28 10:43:24,761 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-28 10:43:51,348 [TestNG-tests-1] INFO CTS - User get login sucessfully
+2021-01-28 10:44:55,633 [TestNG-tests-1] INFO CTS - username is provided
+2021-01-28 10:44:55,700 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-28 10:45:21,615 [TestNG-tests-1] INFO CTS - User get login sucessfully
+2021-01-28 10:53:06,744 [TestNG-tests-1] INFO CTS - username is provided
+2021-01-28 10:53:06,812 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-28 10:53:29,125 [TestNG-tests-1] INFO CTS - User get login sucessfully
+2021-01-28 10:54:25,993 [TestNG-tests-1] INFO CTS - username is provided
+2021-01-28 10:54:26,059 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-28 10:54:53,797 [TestNG-tests-1] INFO CTS - User get login sucessfully
+2021-01-28 10:58:22,866 [TestNG-tests-1] INFO CTS - username is provided
+2021-01-28 10:58:22,934 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-28 10:58:56,507 [TestNG-tests-1] INFO CTS - User get login sucessfully
+2021-01-28 11:13:18,497 [TestNG-tests-1] INFO CTS - username is provided
+2021-01-28 11:13:18,560 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-28 11:16:10,505 [TestNG-tests-1] INFO CTS - User get login sucessfully
+2021-01-28 11:18:15,752 [TestNG-tests-1] INFO CTS - username is provided
+2021-01-28 11:18:15,837 [TestNG-tests-1] INFO CTS - password is provided
+2021-01-28 11:18:41,027 [TestNG-tests-1] INFO CTS - User get login sucessfully
