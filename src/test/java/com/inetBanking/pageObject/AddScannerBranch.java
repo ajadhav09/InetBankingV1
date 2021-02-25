@@ -112,7 +112,7 @@ WebDriver ldriver;
 	@CacheLookup
 	WebElement Username;
 	
-	@FindBy(xpath="/html/body/div/div[1]/div/div/div[2]/form/div[8]/div/button")
+	@FindBy(className ="btn btn-large btn-primary")
 	@CacheLookup
 	WebElement BtnSave;
 	

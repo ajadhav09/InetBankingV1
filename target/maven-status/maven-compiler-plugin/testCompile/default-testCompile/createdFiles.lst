@@ -7,13 +7,17 @@ com\inetBanking\testCases\TC_AddVendorTest_004.class
 com\inetBanking\testCases\TC_AddBankTest_003.class
 com\inetBanking\testCases\TC_AddUserTest_008.class
 com\inetBanking\testCases\BaseClass.class
+com\inetBanking\pageObject\ProcessingDetails.class
 com\inetBanking\testCases\TC_AddScannerBranch_006.class
 com\inetBanking\testCases\TC_AddClient_007.class
+com\inetBanking\pageObject\CTSReport.class
 com\inetBanking\pageObject\AddVendor.class
 com\inetBanking\testCases\TC_AddMobileBranchTest_005.class
 com\inetBanking\utilities\ReadConfig.class
 com\inetBanking\utilities\Reporting.class
 com\inetBanking\pageObject\AddBank.class
 com\inetBanking\pageObject\AddMobileBranch.class
+com\inetBanking\testCases\TC_ProcessingDetails_010.class
 com\inetBanking\utilities\XLUtils.class
 com\inetBanking\pageObject\AddClient.class
+com\inetBanking\testCases\TC_CTSReportTest_009.class

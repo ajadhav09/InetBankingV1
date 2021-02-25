@@ -36,6 +36,41 @@ public class TC_CTSReportTest_009 extends BaseClass
 		report.setlocation();
 		report.drpLocation();
 		report.Search();
+		Thread.sleep(3000);
+		
+		//Processing details test cases
+				report.clickProcessingDetails();
+			//	report.setDate("22/01/2020");
+			//	report.setEndDate("22/01/2020");
+				report.vendor();
+				report.DrVendor();
+				report.setBranchName();
+				report.DrpBranchname();
+				report.setClient();
+				report.DrpClient();
+				report.setBatchnumber();
+				report.drpBatchNumber();
+				report.setDsnumber("15420521");
+				report.setChequenumber("123456");
+				report.setAmount("500");
+				report.btSearch();
+				
+				//Paid Cheque details test cases
+				report.clickPaidCheque();
+			    report.vendorName();
+				report.Vendordrp();
+				report.setStartDate("25/02/2020");
+				report.setendDate("25/02/2020");
+				report.setbranchName();
+				report.locationdrp();
+				report.setclient();
+				report.drpClient();
+				report.setbatchnumber();
+				report.drpBNumber();
+				report.setdsnumber("7979566");
+				report.setchequenumber("569874");
+				report.setamount("1000");
+				report.btsearch();
 	}
 
 }

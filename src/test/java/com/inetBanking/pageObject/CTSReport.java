@@ -68,6 +68,132 @@ public class CTSReport {
 	@CacheLookup
 	WebElement search;
 	
+	
+	//Processing details record search
+	@FindBy(xpath = "/html/body/div/aside/div/nav/ul/li[8]/a")
+	@CacheLookup
+	WebElement lnkProcessingdetails;
+	
+	/*
+	 * @FindBy(id = "btnserach")
+	 * 
+	 * @CacheLookup WebElement search;
+	 */
+	
+	@FindBy(name ="vendor")
+	@CacheLookup
+	WebElement Vendor;
+	
+	@FindBy(name ="vendor")
+	@CacheLookup
+	private WebElement DrVendor;
+	
+	@FindBy(name = "startdate")
+	@CacheLookup
+	WebElement StartDate;
+	
+	@FindBy(name = "enddate")
+	@CacheLookup
+	WebElement Enddate;
+	
+	@FindBy(name = "location")
+	@CacheLookup
+	WebElement BranchName;
+	
+	@FindBy(name = "location")
+	private WebElement DrpBranchname;
+	
+	@FindBy(name = "client")
+	@CacheLookup
+	WebElement client;
+	
+	@FindBy(name = "client")
+	private WebElement DrpClient;
+	
+	@FindBy(name = "BatchNumber")
+	@CacheLookup
+	WebElement batchNumber;
+	
+	@FindBy(name = "BatchNumber")
+	@CacheLookup
+	WebElement drpBatchNumber;
+	
+	@FindBy(name = "dsnumber")
+	@CacheLookup
+	WebElement dsNumber;
+	
+	@FindBy(name = "chequenumber")
+	@CacheLookup
+	WebElement ChequeNumber;
+	
+	@FindBy(name = "amount")
+	@CacheLookup
+	WebElement Amount;
+	
+	@FindBy(name = "btnserach")
+	@CacheLookup
+	WebElement Search; 
+	
+	
+	//Paid cheque details record search
+		@FindBy(xpath = "/html/body/div/aside/div/nav/ul/li[9]/a/p")
+		@CacheLookup
+		WebElement lnkPaidCheque;
+		
+		@FindBy(name ="vendor")
+		@CacheLookup
+		WebElement Vendorname;
+		
+		@FindBy(name ="vendor")
+		@CacheLookup
+		private WebElement Vendordrp;
+		
+		@FindBy(name = "startdate")
+		@CacheLookup
+		WebElement Startdate;
+		
+		@FindBy(name = "enddate")
+		@CacheLookup
+		WebElement EndDate;
+		
+		@FindBy(name = "location")
+		@CacheLookup
+		WebElement location;
+		
+		@FindBy(name = "location")
+		private WebElement locationdrp;
+		
+		@FindBy(name = "client")
+		@CacheLookup
+		WebElement clientName;
+		
+		@FindBy(name = "client")
+		private WebElement drpClient;
+		
+		@FindBy(name = "BatchNumber")
+		@CacheLookup
+		WebElement BNumber;
+		
+		@FindBy(name = "BatchNumber")
+		@CacheLookup
+		WebElement drpBNumber;
+		
+		@FindBy(name = "dsnumber")
+		@CacheLookup
+		WebElement DSNumber;
+		
+		@FindBy(name = "chequenumber")
+		@CacheLookup
+		WebElement chequeNumber;
+		
+		@FindBy(name = "amount")
+		@CacheLookup
+		WebElement amount;
+		
+		@FindBy(name = "btnserach")
+		@CacheLookup
+		WebElement BTNsearch; 
+	
 	//Pickup Activity code
 	
 	public void clickPickUp()
@@ -127,6 +253,162 @@ public class CTSReport {
 	{
 		search.click();
 	}
+	
+	//Processing details page code
+	
+	public void clickProcessingDetails()
+	{
+		lnkProcessingdetails.click();
+	}
+	
+    public void vendor() {
+    	Vendor.click();
+	}
+
+	public  void DrVendor() {
+	      Select drop = new Select(Vendor);
+	      drop.selectByIndex(2);  
+	}
+	
+	public void setDate(String sdate)
+	{
+		StartDate.clear();
+		StartDate.sendKeys(sdate);
+	}
+	public void setEndDate(String Edate)
+	{
+		Enddate.clear();
+		Enddate.sendKeys(Edate);
+	}
+	
+	public void setBranchName()
+	{
+		BranchName.click();
+	}
+	
+	public  void DrpBranchname() {
+	      Select drop = new Select(BranchName);
+	      drop.selectByIndex(12);  
+	}
+	
+	
+	public void setClient()
+	{
+		client.click();
+	}
+	
+	public  void DrpClient() {
+	      Select drop = new Select(client);
+	      drop.selectByIndex(1);  
+	}
+	
+	public void setBatchnumber()
+	{
+		batchNumber.click();
+	}
+	
+	public  void drpBatchNumber() {
+	      Select drop = new Select(batchNumber);
+	      drop.selectByIndex(1);  
+	}
+	
+	public void setDsnumber(String dsnumber)
+	{
+		dsNumber.sendKeys(dsnumber);
+	}
+	
+	public void setChequenumber(String cheqnumber)
+	{
+		ChequeNumber.sendKeys(cheqnumber);
+	}
+	
+	public void setAmount(String amount)
+	{
+		Amount.sendKeys(amount);
+	}
+	
+	public void btSearch()
+	{
+		Search.click();
+	}
+	
+	//Paid cheque details page code
+	
+		public void clickPaidCheque()
+		{
+			lnkPaidCheque.click();
+		}
+		
+	    public void vendorName() {
+	    	Vendorname.click();
+		}
+
+		public  void Vendordrp() {
+		      Select drop = new Select(Vendorname);
+		      drop.selectByIndex(2);  
+		}
+		
+		public void setStartDate(String sdate)
+		{
+			Startdate.clear();
+			Startdate.sendKeys(sdate);
+		}
+		public void setendDate(String Edate)
+		{
+			EndDate.clear();
+			EndDate.sendKeys(Edate);
+		}
+		
+		public void setbranchName()
+		{
+			location.click();
+		}
+		
+		public  void locationdrp() {
+		      Select drop = new Select(location);
+		      drop.selectByIndex(12);  
+		}
+		
+		
+		public void setclient()
+		{
+			clientName.click();
+		}
+		
+		public  void drpClient() {
+		      Select drop = new Select(clientName);
+		      drop.selectByIndex(1);  
+		}
+		
+		public void setbatchnumber()
+		{
+			BNumber.click();
+		}
+		
+		public  void drpBNumber() {
+		      Select drop = new Select(BNumber);
+		      drop.selectByIndex(1);  
+		}
+		
+		public void setdsnumber(String dsnumber)
+		{
+			DSNumber.sendKeys(dsnumber);
+		}
+		
+		public void setchequenumber(String cheqnumber)
+		{
+			chequeNumber.sendKeys(cheqnumber);
+		}
+		
+		public void setamount(String Amount)
+		{
+			amount.sendKeys(Amount);
+		}
+		
+		public void btsearch()
+		{
+			BTNsearch.click();
+		}
 	
 	
 

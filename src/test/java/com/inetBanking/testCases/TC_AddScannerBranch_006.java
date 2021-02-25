@@ -84,7 +84,7 @@ public class TC_AddScannerBranch_006 extends BaseClass {
 		 * Assert.assertTrue(true); logger.info("Test case passed"); }
 		 */
 		
-		if(driver.getTitle().equals("Users / CTS Application"))
+		if(driver.getTitle().equals("Scanner Branch / CTS Application"))
 		{
 			Assert.assertTrue(true);
 			logger.info(" Test case passed");

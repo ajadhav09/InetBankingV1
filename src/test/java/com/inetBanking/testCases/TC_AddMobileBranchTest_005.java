@@ -70,8 +70,9 @@ public class TC_AddMobileBranchTest_005 extends BaseClass{
 		String username = randomstring();
 		addMobilebranch.setUsername(username);
 		addMobilebranch.setPassword("!TMtm123");
-		addMobilebranch.setIsScreenShare();
-		addMobilebranch.clickSave();
+		//addMobilebranch.setIsScreenShare();
+		addMobilebranch.isActive();
+		addMobilebranch.Save();
 		Thread.sleep(3000);
 		
 		logger.info("validation started...");
@@ -84,7 +85,7 @@ public class TC_AddMobileBranchTest_005 extends BaseClass{
 		 * Assert.assertTrue(true); logger.info("Test case passed"); }
 		 */
 		
-		if(driver.getTitle().equals("Users / CTS Application"))
+		if(driver.getTitle().equals("Create MoBile Branch / CTS Application"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Test case passed");

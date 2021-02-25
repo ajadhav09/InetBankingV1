@@ -20,9 +20,11 @@ public class ProcessingDetails {
 	@CacheLookup
 	WebElement lnkProcessingdetails;
 	
-	@FindBy(id = "btnserach")
-	@CacheLookup
-	WebElement search;
+	/*
+	 * @FindBy(id = "btnserach")
+	 * 
+	 * @CacheLookup WebElement search;
+	 */
 	
 	@FindBy(name ="vendor")
 	@CacheLookup
@@ -81,11 +83,6 @@ public class ProcessingDetails {
 	public void clickProcessingDetails()
 	{
 		lnkProcessingdetails.click();
-	}
-	
-	public void btnSearch()
-	{
-		search.click();
 	}
 	
     public void VendorDrp() {
@@ -154,7 +151,10 @@ public class ProcessingDetails {
 		Amount.sendKeys(amount);
 	}
 	
-	
+	public void btSearch()
+	{
+		Search.click();
+	}
 	
 
 }

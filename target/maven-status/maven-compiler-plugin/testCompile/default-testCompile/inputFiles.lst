@@ -1,5 +1,7 @@
+C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\CTSReport.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\AddUser.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\AddVendor.java
+C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\testCases\TC_ProcessingDetails_010.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\utilities\ReadConfig.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\testCases\TC_AddUserTest_008.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\AddScannerBranch.java
@@ -12,8 +14,10 @@ C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\t
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\testCases\TC_AddClient_007.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\testCases\TC_LoginDDT_002.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\AddBank.java
+C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\testCases\TC_CTSReportTest_009.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\AddMobileBranch.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\utilities\Reporting.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\AddClient.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\LoginPage.java
+C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\pageObject\ProcessingDetails.java
 C:\Users\Testing\eclipse-workspace\InetBankingV1\src\test\java\com\inetBanking\testCases\TC_AddBankTest_003.java

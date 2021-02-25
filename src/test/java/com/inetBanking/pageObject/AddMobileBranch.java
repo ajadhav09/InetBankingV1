@@ -1,3 +1,4 @@
+
 package com.inetBanking.pageObject;
 
 import org.openqa.selenium.WebDriver;
@@ -122,16 +123,21 @@ public class AddMobileBranch {
 	@CacheLookup
 	WebElement password;
 	
-	@FindBy(name="IsScreenShare")
+	@FindBy(name="IsActive")
 	@CacheLookup
-	WebElement IsScreenShare;
+	WebElement Isactive;
+	
+//	@FindBy(name="IsScreenShare")
+//	@CacheLookup
+//	WebElement IsScreenShare;
 	
 	@FindBy(xpath="/html/body/div/div[1]/section/div/div/div[2]/form/div[9]/div/div/input")
 	@CacheLookup
-	WebElement btnsave;
+	WebElement save;
 	
 
 	public void clickAdmin()
+	
 	{
 		lnkAdmin.click();
 	}
@@ -263,14 +269,21 @@ public class AddMobileBranch {
 		password.sendKeys(Password);
 	}
 	
-	public void setIsScreenShare()
+//	public void setIsScreenShare()
+//	{
+//		IsScreenShare.click();
+//	}
+	
+
+	public void isActive()
+	
 	{
-		IsScreenShare.click();
+		Isactive.click();
 	}
 	
-	public void clickSave()
+	public void Save()
 	{
-		btnsave.click();
+		save.click();
 	}
 	
 	
